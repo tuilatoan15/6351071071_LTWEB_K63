@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Toan\\source\\repos\\LAB01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{279B6B43-62F3-43E2-B3A9-07E5A467575E}|LAB01.csproj|c:\\users\\toan\\source\\repos\\lab01\\views\\motorbikestore\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{279B6B43-62F3-43E2-B3A9-07E5A467575E}|LAB01.csproj|solutionrelative:views\\motorbikestore\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279B6B43-62F3-43E2-B3A9-07E5A467575E}|LAB01.csproj|c:\\users\\toan\\source\\repos\\lab01\\controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279B6B43-62F3-43E2-B3A9-07E5A467575E}|LAB01.csproj|solutionrelative:controllers\\nguoidungcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279B6B43-62F3-43E2-B3A9-07E5A467575E}|LAB01.csproj|c:\\users\\toan\\source\\repos\\lab01\\views\\motorbikestore\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{279B6B43-62F3-43E2-B3A9-07E5A467575E}|LAB01.csproj|solutionrelative:views\\motorbikestore\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279B6B43-62F3-43E2-B3A9-07E5A467575E}|LAB01.csproj|c:\\users\\toan\\source\\repos\\lab01\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{279B6B43-62F3-43E2-B3A9-07E5A467575E}|LAB01.csproj|solutionrelative:views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279B6B43-62F3-43E2-B3A9-07E5A467575E}|LAB01.csproj|c:\\users\\toan\\source\\repos\\lab01\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{279B6B43-62F3-43E2-B3A9-07E5A467575E}|LAB01.csproj|solutionrelative:controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{279B6B43-62F3-43E2-B3A9-07E5A467575E}|LAB01.csproj|c:\\users\\toan\\source\\repos\\lab01\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{279B6B43-62F3-43E2-B3A9-07E5A467575E}|LAB01.csproj|solutionrelative:web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GiohangController.cs",
+              "DocumentMoniker": "C:\\Users\\Toan\\source\\repos\\LAB01\\Controllers\\GiohangController.cs",
+              "RelativeDocumentMoniker": "Controllers\\GiohangController.cs",
+              "ToolTip": "C:\\Users\\Toan\\source\\repos\\LAB01\\Controllers\\GiohangController.cs",
+              "RelativeToolTip": "Controllers\\GiohangController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:42:49.578Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NguoidungController.cs",
+              "DocumentMoniker": "C:\\Users\\Toan\\source\\repos\\LAB01\\Controllers\\NguoidungController.cs",
+              "RelativeDocumentMoniker": "Controllers\\NguoidungController.cs",
+              "ToolTip": "C:\\Users\\Toan\\source\\repos\\LAB01\\Controllers\\NguoidungController.cs",
+              "RelativeToolTip": "Controllers\\NguoidungController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwA0AAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T12:54:44.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\Toan\\source\\repos\\LAB01\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\Toan\\source\\repos\\LAB01\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T12:53:34.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\Toan\\source\\repos\\LAB01\\Web.config",
+              "RelativeDocumentMoniker": "Web.config",
+              "ToolTip": "C:\\Users\\Toan\\source\\repos\\LAB01\\Web.config",
+              "RelativeToolTip": "Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-29T12:53:02.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Toan\\source\\repos\\LAB01\\Views\\MotorbikeStore\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\MotorbikeStore\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Toan\\source\\repos\\LAB01\\Views\\MotorbikeStore\\Index.cshtml",
+              "RelativeToolTip": "Views\\MotorbikeStore\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T12:40:59.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Toan\\source\\repos\\LAB01\\Views\\MotorbikeStore\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\MotorbikeStore\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Toan\\source\\repos\\LAB01\\Views\\MotorbikeStore\\Details.cshtml",
+              "RelativeToolTip": "Views\\MotorbikeStore\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-29T12:40:13.523Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

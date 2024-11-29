@@ -1,0 +1,35 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_LayoutUser.cshtml";
+}
+
+<h2>ĐÂY LÀ TRANG CHỦ</h2>
+@foreach (var xe in Model)
+{
+    <div class="col-sm-4 col-lg-4 col-md-4">
+        <div class="thumbnail">
+            <a href="@Url.Action("Details", "MotorbikeStore", new {id = xe.MaXe})">
+                <img alt="@xe.TenXe" src="~/Hinhsanpham/@xe.Anhbia" width="200" />
+                <div>
+                    <br />
+                    <h4 style="text-align:center">
+                        @xe.TenXe
+                    </h4>
+                </div>
+                <div class="ratings">
+                    <p class="pull-right">15 reviews</p>
+                    <p>
+                        <span class="glyphicon glyphicon-star"></span>
+                        <span class="glyphicon glyphicon-star">
+                        </span>
+                        <span class="glyphicon glyphicon-star"></span>
+                        <span class="glyphicon glyphicon-star"></span>
+                        <span class="glyphicon glyphicon-star"></span>
+                    </p>
+                </div>
+        </div>
+    </div>
+}
+
+
